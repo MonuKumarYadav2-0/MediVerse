@@ -1,0 +1,34 @@
+# Maven
+target/
+*.class
+
+# Spring Tool Suite / Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+*.env
+
+# Build files
+bin/
+out/
+
+# Temporary files
+*.tmp
